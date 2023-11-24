@@ -1,5 +1,5 @@
 {
-  "name": "reverse-string",
+  "name": "my-own-reverse-string",
   "version": "1.0.0",
   "description": "reverse the string",
   "main": "index.js",
