@@ -1,0 +1,22 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "reverse the string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ali27Raza/reverse-string.git"
+  },
+  "keywords": [
+    "reverse-string"
+  ],
+  "author": "Ali Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali27Raza/reverse-string/issues"
+  },
+  "homepage": "https://github.com/Ali27Raza/reverse-string#readme"
+}
